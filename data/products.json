@@ -1,0 +1,29 @@
+[
+  {
+    "id": "amul_milk_1l",
+    "name": "Amul Milk 1L",
+    "category": "milk",
+    "brand": "amul",
+    "price": 55,
+    "in_stock": false,
+    "attributes": ["veg", "dairy"]
+  },
+  {
+    "id": "mother_dairy_milk_1l",
+    "name": "Mother Dairy Milk 1L",
+    "category": "milk",
+    "brand": "mother_dairy",
+    "price": 54,
+    "in_stock": true,
+    "attributes": ["veg", "dairy"]
+  },
+  {
+    "id": "sofit_soy_milk",
+    "name": "Sofit Soy Milk",
+    "category": "plant_milk",
+    "brand": "sofit",
+    "price": 80,
+    "in_stock": true,
+    "attributes": ["veg", "lactose_free"]
+  }
+]

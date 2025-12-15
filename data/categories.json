@@ -1,0 +1,4 @@
+{
+  "milk": ["plant_milk"],
+  "plant_milk": ["milk"]
+}
