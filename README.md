@@ -104,7 +104,9 @@ Example explanation:
 - Clear message if no alternative is found
 
 ---
-## 📂 Project Structure
+
+## 📁 Project Structure
+```
 shopkeeper_substitution_assistant/
 ├── app.py
 ├── requirements.txt
@@ -132,6 +134,7 @@ shopkeeper_substitution_assistant/
 └── tests/
 └── test_graph.py
 
+```
 
 ---
 
