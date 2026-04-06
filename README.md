@@ -142,7 +142,7 @@ shopkeeper_substitution_assistant/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/shopkeeper_substitution_assistant.git
+git clone https://github.com/<kartik-jane>/shopkeeper_substitution_assistant.git
 cd shopkeeper_substitution_assistant
 ```
 
